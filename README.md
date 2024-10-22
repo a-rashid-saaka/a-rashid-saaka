@@ -4,9 +4,6 @@
 
 
 - [Active Directory: Home Lab](https://github.com/a-rashid-saaka/Active-Directory)
-- [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
-- [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/kirkgacias/spiceworks-knowledge-base)
-- [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -17,19 +14,7 @@
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
   - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
 
-<b></b>
-<b></b>
 
-- <b>Jira Service Management</b>
-  - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
-  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/kirkgacias/jira-configuration)
-
-<b></b>
-<b></b>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
- 
 
 <h2>🤳Connect with me:</h2>
 
