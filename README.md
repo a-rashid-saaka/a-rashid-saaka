@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abdul Rashid, an <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>💻😊</h1>
 
-<h2> ⭐ Featured Projects:</h2>
+<h2> ⭐ My Featured Projects:</h2>
 
 
 - [Active Directory: Home Lab](https://github.com/a-rashid-saaka/Active-Directory)
@@ -16,8 +16,5 @@
 
 
 
-<h2>🤳Connect with me:</h2>
+<h2>🤝Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/kirk-gacias/
