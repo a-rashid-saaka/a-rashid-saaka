@@ -10,7 +10,7 @@
 
 - <b>Active Directory</b>
 
-  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
+  - [Azure VM setup and Network Configuration](https://github.com/a-rashid-saaka/Azure_VM_setup_and_Network_Configuration)
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
   - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
 
