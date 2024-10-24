@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdul Rashid, an <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>💻😊</h1>
+<h1>Hi, I'm Abdul Rashid. <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>💻😊</h1>
 
 <h2> ⭐ My Featured Projects:</h2>
 
