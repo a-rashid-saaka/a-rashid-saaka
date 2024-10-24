@@ -11,7 +11,7 @@
 - <b>Active Directory</b>
 
   - [Azure VM setup and network configuration](https://github.com/a-rashid-saaka/Azure_VM_setup_and_Network_Configuration)
-  - [Active directory deployment and setup](https://github.com/a-rashid-saaka/Active_directory_deployment_and_setup)
+  - [Active Directory deployment and setup](https://github.com/a-rashid-saaka/Active_directory_deployment_and_setup)
   - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
 
 
