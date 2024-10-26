@@ -12,7 +12,7 @@
 
   - [Azure VM setup and network configuration](https://github.com/a-rashid-saaka/Azure_VM_setup_and_Network_Configuration)
   - [Active Directory deployment and setup](https://github.com/a-rashid-saaka/Active_directory_deployment_and_setup)
-  - [Active Directory user generation](https://github.com/a-rashid-saaka/Active_Directory_user_generation)
+  - [Active Directory Domain user generation](https://github.com/a-rashid-saaka/Active_Directory_user_generation)
 
 
 
