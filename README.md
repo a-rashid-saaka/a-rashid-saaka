@@ -4,7 +4,7 @@
 
 
 - [Active Directory: Home Lab](https://github.com/a-rashid-saaka/Active-Directory)
-- [Ticketing System: Jira Service Management](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
+- [Ticket Lifecycle Management: Jira Service Management](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
