@@ -5,7 +5,7 @@
 
 - [Active Directory: Home Lab](https://github.com/a-rashid-saaka/Active-Directory)
 - [Ticket Lifecycle Management: Jira Service Management](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
-- [Google Workspace Administration](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
+- [Google Workspace Administration](https://github.com/a-rashid-saaka/google-workspace)
 
 
 
