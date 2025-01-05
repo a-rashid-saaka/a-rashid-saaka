@@ -11,13 +11,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Active Directory</b>
+- Active Directory
 
   - [Azure VM setup and network configuration](https://github.com/a-rashid-saaka/Azure_VM_setup_and_Network_Configuration)
   - [Active Directory deployment and setup](https://github.com/a-rashid-saaka/Active_directory_deployment_and_setup)
   - [Active Directory bulk user account creation](https://github.com/a-rashid-saaka/Active_Directory_user_generation)
 
 
+- [Ticket Lifecycle Management: Jira Service Management](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
+- [Google Workspace Administration](https://github.com/a-rashid-saaka/google-workspace)
 
 <h2>🤝Connect with me:</h2>
 
