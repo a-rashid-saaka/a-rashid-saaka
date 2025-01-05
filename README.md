@@ -15,5 +15,8 @@
 - [Ticket Lifecycle Management: Jira Service Management](https://github.com/a-rashid-saaka/Ticketing-system-Jira-Service-Management)
 - [Google Workspace Administration](https://github.com/a-rashid-saaka/google-workspace)
 
-<h2>🤝Connect with me:</h2>
+<h2>🤝🔗Connect with me:</h2>
 
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/abdul-rashid-saaka/
