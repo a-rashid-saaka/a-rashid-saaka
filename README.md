@@ -1,7 +1,7 @@
 <h1>Hi, I'm Abdul Rashid.</h1>
 <h2> <a href="www.linkedin.com/in/abdul-rashid-saaka">BI Developer| Data Analytics</a>📊📈💻😊</h2>
 
-
+<p>I'm building my skills in Business Intelligence and Data Analytics, focusing on turning raw data into meaningful business insights.</p>
 
 
 <h2>👨‍💻Projects:</h2>
