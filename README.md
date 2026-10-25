@@ -43,7 +43,7 @@ business KPIs, and trends.
 
 **Tools:** Power BI, Power Query, DAX
 
-[View Project](<a href="https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git"></a>)
+<a href="https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git">View Project</a>
 
 ## 🎯 Areas of Focus
 
