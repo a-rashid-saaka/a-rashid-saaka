@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdul Rashid. <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>💻😊</h1>
+<h1>Hi, I'm Abdul Rashid. <a href="https://www.linkedin.com/in/kirk-gacias/">BI Developer| SQL Server| Power BI| Data Modeling| Data Analytics</a>💻😊</h1>
 
 
 
