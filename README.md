@@ -21,8 +21,7 @@ performance using SQL Server.
 [View Project](https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis)
 
 ### SQL Data Warehouse Project
-Building an interactive dashboard to track sales performance
-business KPIs, and trends.
+This project showcases a complete data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
 **Tools:** SQL Server, T-SQL
 
