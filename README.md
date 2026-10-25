@@ -24,7 +24,7 @@ performance using SQL Server.
 Building an interactive dashboard to track sales performance
 business KPIs, and trends.
 
-**Tools:** SQL
+**Tools:** SQL Server, T-SQL
 
 [View Project](https://github.com/a-rashid-saaka/SQL-Data-Warehouse-Project)
 
