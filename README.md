@@ -16,6 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/abdul-rashid-saaka/
 
 
+
 # Hi, I'm Abdul Rashid 👋
 I'm building my skills in Business Intelligence and Data Analytics, focusing on turning raw data into meaningful business insights.
 
@@ -35,7 +36,7 @@ performance using SQL Server.
 
 **Tools:** SQL Server, T-SQL
 
-[View Project]()
+[View Project](YOUR_REPOSITORY_LINK)
 
 ### Power BI Sales Dashboard
 Building an interactive dashboard to track sales performance,
@@ -43,7 +44,7 @@ business KPIs, and trends.
 
 **Tools:** Power BI, Power Query, DAX
 
-<a href="https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git">View Project</a>
+[View Project](YOUR_REPOSITORY_LINK)
 
 ## 🎯 Areas of Focus
 
@@ -54,4 +55,7 @@ business KPIs, and trends.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abdul-rashid-saaka/)
+- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+
+
+
