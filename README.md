@@ -5,6 +5,7 @@
 
 
 <h2>👨‍💻Projects:</h2>
+<a href="https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git">AdventureWorks Sales Analysis</a>
 
 
 
