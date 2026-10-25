@@ -36,7 +36,7 @@ performance using SQL Server.
 
 **Tools:** SQL Server, T-SQL
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project](https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git)
 
 ### Power BI Sales Dashboard
 Building an interactive dashboard to track sales performance,
