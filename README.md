@@ -1,5 +1,5 @@
 <h1>Hi, I'm Abdul Rashid.</h1>
-<h2> <a href="https://www.linkedin.com/in/kirk-gacias/">BI Developer| Data Analytics</a>📊📈💻😊</h2>
+<h2> <a href="www.linkedin.com/in/abdul-rashid-saaka">BI Developer| Data Analytics</a>📊📈💻😊</h2>
 
 
 
