@@ -55,7 +55,7 @@ business KPIs, and trends.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/abdul-rashid-saaka)
 
 
 
