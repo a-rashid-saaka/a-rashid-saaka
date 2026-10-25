@@ -18,15 +18,15 @@ performance using SQL Server.
 
 **Tools:** SQL Server, T-SQL
 
-[View Project](https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis.git)
+[View Project](https://github.com/a-rashid-saaka/AdventureWorks-Sales-Analysis)
 
-### Power BI Sales Dashboard
+### SQL Data Warehouse Project
 Building an interactive dashboard to track sales performance
 business KPIs, and trends.
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** SQL
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project](https://github.com/a-rashid-saaka/SQL-Data-Warehouse-Project)
 
 ## 🎯 Areas of Focus
 
